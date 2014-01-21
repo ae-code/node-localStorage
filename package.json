@@ -1,0 +1,30 @@
+{
+  "name": "node-localStorage",
+  "version": "0.0.1",
+  "description": "localStorage API for Node.js",
+  "main": "localStorage.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ae-code/node-localStorage.git"
+  },
+  "keywords": [
+    "localStorage"
+  ],
+  "author": "AE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ae-code/node-localStorage/issues"
+  },
+  "homepage": "https://github.com/ae-code/node-localStorage",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-jasmine-node": "~0.1.0"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
